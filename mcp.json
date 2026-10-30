@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "agentry": {
+      "command": "node",
+      "args": [
+        "${PLUGIN_ROOT}/server/agentry-mcp.mjs"
+      ],
+      "cwd": "${PLUGIN_ROOT}"
+    }
+  }
+}
