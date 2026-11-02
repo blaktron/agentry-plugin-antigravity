@@ -3,7 +3,7 @@
   "name": "agentry",
   "displayName": "Agentry",
   "description": "Find, verify, install and run QuickAgents, signed and scanned agent packages with a declared contract, and build your own.",
-  "version": "0.1.0",
+  "version": "0.7.0",
   "logo": "assets/logo.png",
   "suggestedPrompts": [
     "Check that Agentry is set up on this computer",
